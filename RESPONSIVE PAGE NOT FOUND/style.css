@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+/* CSS DOCUMENT */
+
+body {
+    margin: 0;
+    padding: 0;
+
+    font-family: poppins;
+
+    background-image: url(./Images/bg.png);
+    background-size: 350px;
+    background-position: center;
+}
